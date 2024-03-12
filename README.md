@@ -22,7 +22,7 @@ Setosa
 Versicolor
 Virginica
 
-#Contents
+# Contents
 eda_iris.ipynb: Jupyter Notebook containing Python code for performing EDA on the Iris dataset.
 iris.csv: CSV file containing the Iris dataset.
 
@@ -32,9 +32,9 @@ The EDA process reveals insights into the distributions of features, relationshi
 # Dependencies
 The following Python libraries are required to run the code:
 
-Pandas
-NumPy
-Matplotlib
+Pandas,
+NumPy,
+Matplotlib'
 Seaborn
 
 
